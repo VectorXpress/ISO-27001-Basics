@@ -1,2 +1,2 @@
 # ISO-27001-Basics
-What every organization needs to know
+This guide is broken down into several sections and provides a thorough understanding of ISO 27001.
