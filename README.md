@@ -1,6 +1,7 @@
-# ISO-27001-Basics
-This guide is broken down into several sections and provides a thorough understanding of ISO 27001.
 # ISO 27001 BASICS: WHAT EVERY ORGANIZATION NEEDS TO KNOW
+## ***This guide is broken down into several sections to provide a thorough overview of ISO 27001***
+
+![ISO-27001](https://github.com/VectorXpress/ISO-27001-Basics/assets/172943533/65b70129-6e24-49f6-ad66-33e0f899c51d)
 
 May 28, 2024  
 ISO 27001 Basics  
